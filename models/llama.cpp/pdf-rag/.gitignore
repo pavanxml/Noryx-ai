@@ -1,0 +1,5 @@
+.venv/
+.rag-index/
+.chroma-test/
+__pycache__/
+*.pyc

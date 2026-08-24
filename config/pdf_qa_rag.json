@@ -1,0 +1,16 @@
+﻿{
+    "document_paths": [
+        "data/rag/documents/Qwen_RAG_Custom_QA_Training.pdf",
+        "data/rag/documents/Noryx_Supplemental_QA.pdf",
+        "data/rag/documents/General_Knowledge_QA_200.pdf",
+        "data/rag/documents/World_History_GK_200.pdf",
+        "data/rag/documents/Science_GK_200.pdf",
+        "data/rag/documents/Mixed_GK_500.pdf",
+        "data/rag/documents/Geography_GK_200.pdf",
+        "data/rag/documents/Computer_GK_200.pdf"
+    ],
+    "cache_seconds": 30,
+    "match_threshold": 0.8,
+    "document_path": "data/rag/documents/Qwen_RAG_Custom_QA_Training.pdf",
+    "enabled": true
+}
